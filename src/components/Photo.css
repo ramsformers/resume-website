@@ -1,0 +1,12 @@
+/* Photo.css */
+.social-icons {
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center-align children horizontally */
+    margin-top: 20px; /* Add margin between the image and icons */
+}
+
+.social-icons a {
+    display: inline-block; /* Ensure icons are displayed inline */
+    margin-right: 10px; /* Add margin between the icons */
+    font-size: 24px; /* Set the size of the icons */
+}
